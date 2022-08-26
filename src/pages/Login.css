@@ -1,0 +1,19 @@
+.login__bg {
+  background-image: url("https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoYXR8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60");
+  min-height: 90vh;
+  padding-left: 0;
+  padding-right: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+.bg__link {
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+.bg__link:hover {
+  text-decoration: underline;
+}
